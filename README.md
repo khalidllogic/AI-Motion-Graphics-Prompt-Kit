@@ -29,11 +29,6 @@ You don't need to be a professional motion designer to get started.
 
 Tool capabilities and usage limits may vary by account and subscription.
 
-## 📂 Repository Structure
-
-- `prompts/master-prompt.md` — The complete motion graphics production prompt.
-- `prompts/quick-prompt.md` — A shorter prompt for quick experiments.
-- `examples/usage-guide.md` — A practical step-by-step workflow.
 
 ## 🚀 Getting Started
 
